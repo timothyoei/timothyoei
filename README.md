@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=timothyoei&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Timothy Oei's GitHub stats](https://github-readme-stats.vercel.app/api?username=timothyoei&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **timothyoei/timothyoei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
